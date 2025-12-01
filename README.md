@@ -1,4 +1,4 @@
-<h1 align="center">🎵 Istkhar Music🎵</h1>
+<h1 align="center">🎵 GAURI SHANKAR MUSIC🎵</h1>
 
 <p align="center">
   <img src="https://files.catbox.moe/k1gf6k.jpg" alt="Istkhar Music Logo" width="600" height="150">
@@ -54,7 +54,7 @@
 <h2 align="center">🚀 One-Click Deploy to Heroku</h2>
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/ISTKHAROP/IstkharMusic">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Arunraj6899/GAURI">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" />
   </a>
 </p>
